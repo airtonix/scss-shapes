@@ -1,5 +1,5 @@
 {
-	"name": "CSS-Shapes",
+	"name": "scss-shapes",
 	"description": "SCSS mixins for some of the most common and useful shapes around.",
 	"version": "2.0.0",
 	"private": false,
